@@ -1,3 +1,4 @@
 # HelloGit
 
-这是一个git的使用test
+杩欐槸涓�涓狦it鎻愪氦鐨凾est
+This is a Test.
